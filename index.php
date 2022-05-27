@@ -27,6 +27,7 @@
             label { display: block;}
         </style>
         <h1>Mapa de sombras de Jaén. Indica la fecha y hora</h1>
+        <h2>Modificación para Git</h2>
         <form action="" method="post">
             <label for="fecha_entrada">
                 Fecha (dd/mm/aaaa):
